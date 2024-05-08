@@ -5,7 +5,7 @@ My notes reading "[Kotlin Essentials][book]' book by [Marcin Moskala][marcin]
 ## TOC
 
 * [x] Introduction
-* [ ] What is Kotlin?
+* [x] What is Kotlin?
 * [ ] Your first program in Kotlin
 * [ ] Variables
 * [ ] Basic types, their literals and operations
