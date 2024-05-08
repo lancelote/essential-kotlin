@@ -1,6 +1,6 @@
 # kotlin-essentials
 
-My notes reading "[Kotlin Essentials][book]' book by [Marcin Moskala][marcin]
+My notes reading "[Kotlin Essentials][book]" book by [Marcin Moskala][marcin]
 
 ## TOC
 
