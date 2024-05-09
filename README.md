@@ -6,7 +6,7 @@ My notes reading "[Kotlin Essentials][book]" book by [Marcin Moskala][marcin]
 
 * [x] Introduction
 * [x] What is Kotlin?
-* [ ] Your first program in Kotlin
+* [x] Your first program in Kotlin
 * [ ] Variables
 * [ ] Basic types, their literals and operations
 * [ ] Conditional statements: if, when, try, and while
