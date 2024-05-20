@@ -8,5 +8,6 @@ fun lengthIfString(a: Any): Int {
 }
 
 fun main() {
-
+    println(lengthIfString("hello world"))
+    println(lengthIfString(42))
 }
