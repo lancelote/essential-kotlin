@@ -8,7 +8,7 @@ My notes reading "[Kotlin Essentials][book]" book by [Marcin Moskala][marcin]
 * [x] What is Kotlin?
 * [x] Your first program in Kotlin
 * [x] Variables
-* [ ] Basic types, their literals and operations
+* [x] Basic types, their literals and operations
 * [ ] Conditional statements: if, when, try, and while
 * [ ] Functions
 * [ ] The power of the for-loop
