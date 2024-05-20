@@ -9,7 +9,7 @@ My notes reading "[Kotlin Essentials][book]" book by [Marcin Moskala][marcin]
 * [x] [Your first program in Kotlin](src/main/kotlin/ch03)
 * [x] [Variables](src/main/kotlin/ch04)
 * [x] [Basic types, their literals and operations](src/main/kotlin/ch05)
-* [ ] Conditional statements: if, when, try, and while
+* [x] [Conditional statements: if, when, try, and while](src/main/kotlin/ch06)
 * [ ] Functions
 * [ ] The power of the for-loop
 * [ ] Nullability
