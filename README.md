@@ -11,7 +11,7 @@ My notes reading "[Kotlin Essentials][book]" book by [Marcin Moskala][marcin]
 * [x] [Basic types, their literals and operations](src/main/kotlin/ch05)
 * [x] [Conditional statements: if, when, try, and while](src/main/kotlin/ch06)
 * [x] [Functions](src/main/kotlin/ch07)
-* [ ] [The power of the for-loop](src/main/kotlin/ch08)
+* [x] [The power of the for-loop](src/main/kotlin/ch08)
 * [ ] Nullability
 * [ ] Classes
 * [ ] Inheritance
