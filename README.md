@@ -12,7 +12,7 @@ My notes reading "[Kotlin Essentials][book]" book by [Marcin Moskala][marcin]
 * [x] [Conditional statements: if, when, try, and while](src/main/kotlin/ch06)
 * [x] [Functions](src/main/kotlin/ch07)
 * [x] [The power of the for-loop](src/main/kotlin/ch08)
-* [ ] Nullability
+* [ ] [Nullability](src/main/kotlin/ch09)
 * [ ] Classes
 * [ ] Inheritance
 * [ ] Data classes
