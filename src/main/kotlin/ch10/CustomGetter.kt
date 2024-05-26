@@ -8,11 +8,17 @@ class User {
                 field = value
             }
         }
+    var surname: String = ""
+    val fullName: String
+        get() = "$name $surname"
+
 }
 
 fun main() {
     val user = User()
     user.name = "Norbert"
     user.name = ""
-    println(user.name)
+    user.surname = "Doe"
+
+    println(user.fullName)
 }
