@@ -13,7 +13,7 @@ My notes reading "[Kotlin Essentials][book]" book by [Marcin Moskala][marcin]
 * [x] [Functions](src/main/kotlin/ch07)
 * [x] [The power of the for-loop](src/main/kotlin/ch08)
 * [x] [Nullability](src/main/kotlin/ch09)
-* [ ] Classes
+* [ ] [Classes](src/main/kotlin/ch10)
 * [ ] Inheritance
 * [ ] Data classes
 * [ ] Objects
