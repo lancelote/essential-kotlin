@@ -15,7 +15,7 @@ My notes reading "[Kotlin Essentials][book]" book by [Marcin Moskala][marcin]
 * [x] [Nullability](src/main/kotlin/ch09)
 * [x] [Classes](src/main/kotlin/ch10)
 * [x] [Inheritance](src/main/kotlin/ch11)
-* [ ] Data classes
+* [ ] [Data classes](src/main/kotlin/ch12)
 * [ ] Objects
 * [ ] Exceptions
 * [ ] Enum classes
