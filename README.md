@@ -16,8 +16,8 @@ My notes reading "[Kotlin Essentials][book]" book by [Marcin Moskala][marcin]
 * [x] [Classes](src/main/kotlin/ch10)
 * [x] [Inheritance](src/main/kotlin/ch11)
 * [x] [Data classes](src/main/kotlin/ch12)
-* [ ] [Objects](src/main/kotlin/ch13)
-* [ ] [Exceptions](src/main/kotlin/ch14)
+* [x] [Objects](src/main/kotlin/ch13)
+* [x] [Exceptions](src/main/kotlin/ch14)
 * [ ] Enum classes
 * [ ] Sealed classes and interfaces
 * [ ] Annotations classes
