@@ -20,7 +20,7 @@ My notes reading "[Kotlin Essentials][book]" book by [Marcin Moskala][marcin]
 * [x] [Exceptions](src/main/kotlin/ch14)
 * [x] [Enum classes](src/main/kotlin/ch15)
 * [x] Sealed classes and interfaces
-* [ ] Annotations classes
+* [x] Annotations classes
 * [ ] Extensions
 * [ ] Collections
 * [ ] Operator overloading
