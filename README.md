@@ -21,7 +21,7 @@ My notes reading "[Kotlin Essentials][book]" book by [Marcin Moskala][marcin]
 * [x] [Enum classes](src/main/kotlin/ch15)
 * [x] Sealed classes and interfaces
 * [x] Annotations classes
-* [ ] Extensions
+* [ ] [Extensions](src/main/kotlin/ch18)
 * [ ] Collections
 * [ ] Operator overloading
 * [ ] The beauty of Kotlin's type system
