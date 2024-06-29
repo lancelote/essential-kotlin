@@ -22,7 +22,7 @@ My notes reading "[Kotlin Essentials][book]" book by [Marcin Moskala][marcin]
 * [x] Sealed classes and interfaces
 * [x] Annotations classes
 * [x] [Extensions](src/main/kotlin/ch18)
-* [ ] Collections
+* [x] Collections
 * [ ] Operator overloading
 * [ ] The beauty of Kotlin's type system
 * [ ] Generics
