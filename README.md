@@ -23,7 +23,7 @@ My notes reading "[Kotlin Essentials][book]" book by [Marcin Moskala][marcin]
 * [x] Annotations classes
 * [x] [Extensions](src/main/kotlin/ch18)
 * [x] Collections
-* [ ] Operator overloading
+* [ ] [Operator overloading](src/main/kotlin/ch20)
 * [ ] The beauty of Kotlin's type system
 * [ ] Generics
 * [ ] Final words
