@@ -26,7 +26,7 @@ My notes reading "[Kotlin Essentials][book]" book by [Marcin Moskala][marcin]
 * [x] [Operator overloading](src/main/kotlin/ch20)
 * [x] The beauty of Kotlin's type system
 * [ ] Generics
-* [ ] Final words
+* [x] Final words
 
 [book]: https://www.goodreads.com/book/show/83171300-kotlin-essentials
 [marcin]: https://www.linkedin.com/in/marcin-moskala/
